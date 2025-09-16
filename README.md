@@ -129,6 +129,3 @@ If you have any questions or need help customizing the portfolio, feel free to:
 - Contact the maintainer
 - Check the documentation
 
----
-
-**Built with ❤️ for AI/ML professionals looking to showcase their work in style.**
